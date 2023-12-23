@@ -1,0 +1,22 @@
+.notFound {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 999;
+}
+
+.notFound-img {
+  width: 100%;
+}
+
+.text {
+  color: rgb(0, 0, 0);
+  background-color: rgb(253, 236, 0);
+  font-size: 5dvw;
+  padding: 15px;
+  border-radius: 10px;
+}

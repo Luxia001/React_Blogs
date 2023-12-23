@@ -1,0 +1,20 @@
+.blogs-container {
+  width: 96%;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.card {
+  color: #333;
+}
+
+.search-container {
+  margin: 30px 0;
+}
+
+.search-input {
+  padding: 1em 1em;
+  width: 96%;
+  font-size: 18px;
+  outline: none;
+}
